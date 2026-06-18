@@ -4,6 +4,8 @@
   "description": "Malicious repo to test the debricked PR github flow",
   "dependencies": {
     "openblox-ts": "0.0.1-security",
-    "axios": "1.14.1"
+    "axios": "0.30.4",
+    "node-ipc": "9.1.6",
+    "backslash": "0.2.1"
   }
 }
